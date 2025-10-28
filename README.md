@@ -1,0 +1,1 @@
+# Dual-Branch-Multi-Scale-Approach-for-Photovoltaic-Defect-Detection-in-Electroluminescence-Images
